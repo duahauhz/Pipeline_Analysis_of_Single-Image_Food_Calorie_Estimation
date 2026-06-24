@@ -1,0 +1,5 @@
+model,params_M,mAP50,mAP50_95,precision,recall,latency_ms,fps,n_test_images,device,weights
+yolov8n_baseline,3.009548,0.9908073274181615,0.9093084001820984,0.9898040562203801,0.9929600259363047,19.47091099980753,51.35866524221106,100,cuda:0,E:\AI_Research\Model yolov13 cho TTCS\runs\distill_v13_to_v8\baseline_v8n_train\weights\best.pt
+yolov13n_local,2.451795,0.9923296843231675,0.9173190289158049,0.9943480112143244,0.9971521822363025,34.33596699993359,29.12397952857813,100,cuda:0,E:\AI_Research\Model yolov13 cho TTCS\runs\local_food_detect\yolov13n_ecustfd_local\weights\best.pt
+yolov8n_local,3.009548,0.9923805143365245,0.9162360564101969,0.989199002259415,0.9978051411782604,18.272142999921925,54.728118097820975,100,cuda:0,E:\AI_Research\Model yolov13 cho TTCS\runs\local_food_detect\yolov8n_ecustfd_local\weights\best.pt
+yolov13_to_v8n_distilled,3.009548,0.9912585356917267,0.9123959339987967,0.9867499696997217,0.9863190385057534,18.934924000059254,52.81246441743683,100,cuda:0,E:\AI_Research\Model yolov13 cho TTCS\runs\distill_v13_to_v8\student_train\weights\best.pt

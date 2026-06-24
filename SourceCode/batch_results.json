@@ -1,0 +1,50 @@
+{
+  "YOLOv13n batch=1": {
+    "name": "YOLOv13n batch=1",
+    "batch_size": 1,
+    "mean_ms": 34.53865250000187,
+    "p95_ms": 43.85700001148507,
+    "img_per_s": 28.953069318496023,
+    "n_samples": 120
+  },
+  "YOLOv13n batch=2": {
+    "name": "YOLOv13n batch=2",
+    "batch_size": 2,
+    "mean_ms": 25.73677416658029,
+    "p95_ms": 34.04245001729578,
+    "img_per_s": 38.854908292995,
+    "n_samples": 60
+  },
+  "YOLOv13n batch=4": {
+    "name": "YOLOv13n batch=4",
+    "batch_size": 4,
+    "mean_ms": 19.610230831312947,
+    "p95_ms": 24.22462499816902,
+    "img_per_s": 50.99379036391729,
+    "n_samples": 30
+  },
+  "YOLOv13n batch=8": {
+    "name": "YOLOv13n batch=8",
+    "batch_size": 8,
+    "mean_ms": 15.531768331614634,
+    "p95_ms": 18.135312500817236,
+    "img_per_s": 64.38416918468441,
+    "n_samples": 15
+  },
+  "YOLOv13n batch=16": {
+    "name": "YOLOv13n batch=16",
+    "batch_size": 16,
+    "mean_ms": 15.087020833662892,
+    "p95_ms": 17.282043751038145,
+    "img_per_s": 66.28213820509556,
+    "n_samples": 9
+  },
+  "YOLOv8n batch=8": {
+    "name": "YOLOv8n batch=8",
+    "batch_size": 8,
+    "mean_ms": 10.53503083482307,
+    "p95_ms": 12.111512500268873,
+    "img_per_s": 94.9214117812114,
+    "n_samples": 15
+  }
+}

@@ -1,0 +1,4 @@
+setup,n,mape_kcal,mae_g,accuracy_at_20pct,notes
+1_view_top_only,158,0.484,61.59,0.3354,GT bbox + depth-ratio (per class) → ellipsoid/box/cyl volume.
+2_view_top_side,158,0.4657,58.46,0.4241,GT bbox on both views → real L×W×D silhouette volume.
+ECUSTFD_paper_baseline,297,0.189,,,"Liang & Li 2017, dual-camera + GrabCut. Reference only."

@@ -1,0 +1,155 @@
+{
+  "n_images_total": 1733,
+  "n_predictions": 1724,
+  "n_with_gt": 1724,
+  "n_missing_coin": 0,
+  "n_no_food": 9,
+  "n_invalid_coin_bbox": 0,
+  "n_skipped_invalid_calibration": 0,
+  "elapsed_s": 35.7,
+  "images_per_sec": 48.51,
+  "overall": {
+    "mae_g": 55.23,
+    "rmse_g": 96.53,
+    "bias_g": 1.77,
+    "mae_kcal": 57.17,
+    "rmse_kcal": 99.1,
+    "mape_kcal": 0.4522,
+    "accuracy_at_20pct": 0.3306
+  },
+  "per_class": {
+    "apple": {
+      "n": 165,
+      "mae_g": 80.56,
+      "rmse_g": 106.14,
+      "mae_kcal": 43.94,
+      "mape_kcal": 0.3216
+    },
+    "banana": {
+      "n": 102,
+      "mae_g": 136.97,
+      "rmse_g": 148.98,
+      "mae_kcal": 118.82,
+      "mape_kcal": 0.8532
+    },
+    "bread": {
+      "n": 34,
+      "mae_g": 79.58,
+      "rmse_g": 102.67,
+      "mae_kcal": 209.31,
+      "mape_kcal": 2.6757
+    },
+    "bun": {
+      "n": 58,
+      "mae_g": 38.4,
+      "rmse_g": 43.14,
+      "mae_kcal": 86.57,
+      "mape_kcal": 0.4977
+    },
+    "doughnut": {
+      "n": 122,
+      "mae_g": 35.66,
+      "rmse_g": 38.31,
+      "mae_kcal": 161.18,
+      "mape_kcal": 0.632
+    },
+    "egg": {
+      "n": 60,
+      "mae_g": 12.96,
+      "rmse_g": 17.7,
+      "mae_kcal": 15.7,
+      "mape_kcal": 0.1647
+    },
+    "fired_dough_twist": {
+      "n": 66,
+      "mae_g": 15.04,
+      "rmse_g": 17.39,
+      "mae_kcal": 65.38,
+      "mape_kcal": 0.3522
+    },
+    "grape": {
+      "n": 34,
+      "mae_g": 352.05,
+      "rmse_g": 436.9,
+      "mae_kcal": 242.91,
+      "mape_kcal": 1.6039
+    },
+    "lemon": {
+      "n": 149,
+      "mae_g": 33.47,
+      "rmse_g": 48.65,
+      "mae_kcal": 15.7,
+      "mape_kcal": 0.283
+    },
+    "litchi": {
+      "n": 48,
+      "mae_g": 5.96,
+      "rmse_g": 7.28,
+      "mae_kcal": 3.93,
+      "mape_kcal": 0.1365
+    },
+    "mango": {
+      "n": 125,
+      "mae_g": 37.59,
+      "rmse_g": 51.26,
+      "mae_kcal": 20.99,
+      "mape_kcal": 0.3406
+    },
+    "mooncake": {
+      "n": 68,
+      "mae_g": 33.38,
+      "rmse_g": 45.84,
+      "mae_kcal": 140.22,
+      "mape_kcal": 0.5031
+    },
+    "orange": {
+      "n": 147,
+      "mae_g": 65.22,
+      "rmse_g": 95.56,
+      "mae_kcal": 32.9,
+      "mape_kcal": 0.3395
+    },
+    "peach": {
+      "n": 78,
+      "mae_g": 26.84,
+      "rmse_g": 39.55,
+      "mae_kcal": 14.23,
+      "mape_kcal": 0.2917
+    },
+    "pear": {
+      "n": 93,
+      "mae_g": 66.48,
+      "rmse_g": 127.06,
+      "mae_kcal": 37.16,
+      "mape_kcal": 0.2906
+    },
+    "plum": {
+      "n": 94,
+      "mae_g": 20.25,
+      "rmse_g": 23.15,
+      "mae_kcal": 9.31,
+      "mape_kcal": 0.1926
+    },
+    "qiwi": {
+      "n": 63,
+      "mae_g": 32.72,
+      "rmse_g": 38.27,
+      "mae_kcal": 19.92,
+      "mape_kcal": 0.2776
+    },
+    "sachima": {
+      "n": 96,
+      "mae_g": 13.71,
+      "rmse_g": 17.23,
+      "mae_kcal": 61.71,
+      "mape_kcal": 0.43
+    },
+    "tomato": {
+      "n": 122,
+      "mae_g": 78.25,
+      "rmse_g": 81.26,
+      "mae_kcal": 14.12,
+      "mape_kcal": 0.4332
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": "yolov8n_local",
+  "weights": "E:\\AI_Research\\Model yolov13 cho TTCS\\runs\\local_food_detect\\yolov8n_ecustfd_local\\weights\\best.pt",
+  "mAP50": 0.9923805143365245,
+  "mAP50_95": 0.9162360564101969,
+  "precision": 0.989199002259415,
+  "recall": 0.9978051411782604,
+  "params_M": 3.009548,
+  "latency_ms": 18.272142999921925,
+  "fps": 54.728118097820975,
+  "n_test_images": 100,
+  "device": "cuda:0"
+}

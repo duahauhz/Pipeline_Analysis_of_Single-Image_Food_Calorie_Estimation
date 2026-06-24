@@ -1,0 +1,54 @@
+[
+  {
+    "model": "yolov8n_baseline",
+    "weights": "E:\\AI_Research\\Model yolov13 cho TTCS\\runs\\distill_v13_to_v8\\baseline_v8n_train\\weights\\best.pt",
+    "mAP50": 0.9908073274181615,
+    "mAP50_95": 0.9093084001820984,
+    "precision": 0.9898040562203801,
+    "recall": 0.9929600259363047,
+    "params_M": 3.009548,
+    "latency_ms": 19.47091099980753,
+    "fps": 51.35866524221106,
+    "n_test_images": 100,
+    "device": "cuda:0"
+  },
+  {
+    "model": "yolov13n_local",
+    "weights": "E:\\AI_Research\\Model yolov13 cho TTCS\\runs\\local_food_detect\\yolov13n_ecustfd_local\\weights\\best.pt",
+    "mAP50": 0.9923296843231675,
+    "mAP50_95": 0.9173190289158049,
+    "precision": 0.9943480112143244,
+    "recall": 0.9971521822363025,
+    "params_M": 2.451795,
+    "latency_ms": 34.33596699993359,
+    "fps": 29.12397952857813,
+    "n_test_images": 100,
+    "device": "cuda:0"
+  },
+  {
+    "model": "yolov8n_local",
+    "weights": "E:\\AI_Research\\Model yolov13 cho TTCS\\runs\\local_food_detect\\yolov8n_ecustfd_local\\weights\\best.pt",
+    "mAP50": 0.9923805143365245,
+    "mAP50_95": 0.9162360564101969,
+    "precision": 0.989199002259415,
+    "recall": 0.9978051411782604,
+    "params_M": 3.009548,
+    "latency_ms": 18.272142999921925,
+    "fps": 54.728118097820975,
+    "n_test_images": 100,
+    "device": "cuda:0"
+  },
+  {
+    "model": "yolov13_to_v8n_distilled",
+    "weights": "E:\\AI_Research\\Model yolov13 cho TTCS\\runs\\distill_v13_to_v8\\student_train\\weights\\best.pt",
+    "mAP50": 0.9912585356917267,
+    "mAP50_95": 0.9123959339987967,
+    "precision": 0.9867499696997217,
+    "recall": 0.9863190385057534,
+    "params_M": 3.009548,
+    "latency_ms": 18.934924000059254,
+    "fps": 52.81246441743683,
+    "n_test_images": 100,
+    "device": "cuda:0"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "per_image": {
+    "n": 1733,
+    "n_with_gt": 1728,
+    "mae_g": 17.34,
+    "rmse_g": 72.65,
+    "bias_g": 17.34,
+    "mae_kcal": 12.34,
+    "rmse_kcal": 57.99,
+    "mape_kcal": 0.1035,
+    "accuracy_at_20pct": 0.8993
+  },
+  "per_class": {
+    "n": 1733,
+    "n_with_gt": 1728,
+    "mae_g": 53.97,
+    "rmse_g": 88.77,
+    "bias_g": 1.49,
+    "mae_kcal": 57.37,
+    "rmse_kcal": 98.32,
+    "mape_kcal": 0.4693,
+    "accuracy_at_20pct": 0.3316
+  },
+  "geometry_fallback": {
+    "n": 1733,
+    "n_with_gt": 1728,
+    "mae_g": 55.81,
+    "rmse_g": 90.15,
+    "bias_g": -0.21,
+    "mae_kcal": 63.93,
+    "rmse_kcal": 110.85,
+    "mape_kcal": 0.5225,
+    "accuracy_at_20pct": 0.2975
+  }
+}

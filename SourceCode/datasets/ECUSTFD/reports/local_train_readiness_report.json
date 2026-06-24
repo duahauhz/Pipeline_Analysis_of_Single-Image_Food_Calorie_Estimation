@@ -1,0 +1,79 @@
+{
+  "python": {
+    "version": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+    "version_info": [
+      3,
+      14,
+      4
+    ],
+    "supported_for_torch": false
+  },
+  "files": {
+    "dataset_yaml": {
+      "ok": true,
+      "path": "datasets\\ECUSTFD\\ecustfd.yaml",
+      "size": 446
+    },
+    "weights": {
+      "ok": true,
+      "path": "weights\\yolov13n_pretrained.pt",
+      "size": 10570688
+    },
+    "yolov13_repo": {
+      "ok": true,
+      "path": "yolov13\\ultralytics\\__init__.py",
+      "size": 738
+    }
+  },
+  "modules": {
+    "torch": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'torch'\")"
+    },
+    "ultralytics": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'torch'\")"
+    },
+    "cv2": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'cv2'\")"
+    },
+    "PIL": {
+      "ok": true,
+      "version": "12.2.0",
+      "file": "C:\\Users\\Admin\\AppData\\Roaming\\Python\\Python314\\site-packages\\PIL\\__init__.py"
+    },
+    "thop": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'thop'\")"
+    },
+    "timm": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'timm'\")"
+    },
+    "safetensors": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'safetensors'\")"
+    },
+    "huggingface_hub": {
+      "ok": false,
+      "error": "ModuleNotFoundError(\"No module named 'huggingface_hub'\")"
+    }
+  },
+  "cuda": {
+    "ok": false,
+    "details": "torch is not importable"
+  },
+  "status": "LOCAL_TRAIN_NOT_READY",
+  "blocking": [
+    "Use Python 3.10-3.12 for PyTorch.",
+    "Missing module torch (install package torch)",
+    "Missing module ultralytics (install package ultralytics)",
+    "Missing module cv2 (install package opencv-python)",
+    "Missing module thop (install package ultralytics-thop)",
+    "Missing module timm (install package timm)",
+    "Missing module safetensors (install package safetensors)",
+    "Missing module huggingface_hub (install package huggingface_hub)",
+    "CUDA is not available from torch."
+  ]
+}

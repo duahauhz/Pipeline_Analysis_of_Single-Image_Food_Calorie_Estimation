@@ -1,0 +1,116 @@
+{
+  "apple": {
+    "density": 0.84,
+    "kcal_per_100g": 52,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.85
+  },
+  "banana": {
+    "density": 0.94,
+    "kcal_per_100g": 89,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.55
+  },
+  "bread": {
+    "density": 0.27,
+    "kcal_per_100g": 265,
+    "geometry": "box",
+    "depth_ratio": 0.45
+  },
+  "bun": {
+    "density": 0.35,
+    "kcal_per_100g": 223,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.45
+  },
+  "doughnut": {
+    "density": 0.33,
+    "kcal_per_100g": 452,
+    "geometry": "cylinder",
+    "depth_ratio": 0.35
+  },
+  "egg": {
+    "density": 1.03,
+    "kcal_per_100g": 155,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.75
+  },
+  "fired_dough_twist": {
+    "density": 0.35,
+    "kcal_per_100g": 450,
+    "geometry": "cylinder",
+    "depth_ratio": 0.35
+  },
+  "grape": {
+    "density": 0.96,
+    "kcal_per_100g": 69,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.9
+  },
+  "lemon": {
+    "density": 0.96,
+    "kcal_per_100g": 29,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.85
+  },
+  "litchi": {
+    "density": 1.0,
+    "kcal_per_100g": 66,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.9
+  },
+  "mango": {
+    "density": 0.95,
+    "kcal_per_100g": 60,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.7
+  },
+  "mooncake": {
+    "density": 0.65,
+    "kcal_per_100g": 420,
+    "geometry": "cylinder",
+    "depth_ratio": 0.35
+  },
+  "orange": {
+    "density": 0.87,
+    "kcal_per_100g": 47,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.9
+  },
+  "peach": {
+    "density": 0.95,
+    "kcal_per_100g": 39,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.85
+  },
+  "pear": {
+    "density": 0.92,
+    "kcal_per_100g": 57,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.8
+  },
+  "plum": {
+    "density": 0.95,
+    "kcal_per_100g": 46,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.85
+  },
+  "qiwi": {
+    "density": 1.0,
+    "kcal_per_100g": 61,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.8
+  },
+  "sachima": {
+    "density": 0.38,
+    "kcal_per_100g": 450,
+    "geometry": "box",
+    "depth_ratio": 0.4
+  },
+  "tomato": {
+    "density": 0.95,
+    "kcal_per_100g": 18,
+    "geometry": "ellipsoid",
+    "depth_ratio": 0.85
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "n_pairs": 158,
+  "labels_dir": "None",
+  "v1_single_image_top_only": {
+    "n": 158,
+    "mape_kcal": 0.4843,
+    "mae_g": 61.6,
+    "accuracy_at_20pct": 0.3418
+  },
+  "v2_dual_image_top_side": {
+    "n": 158,
+    "mape_kcal": 0.4653,
+    "mae_g": 58.44,
+    "accuracy_at_20pct": 0.4241
+  },
+  "per_class_v1": {
+    "apple": {
+      "n": 23,
+      "mape_kcal": 0.2503,
+      "accuracy_at_20pct": 0.4348
+    },
+    "banana": {
+      "n": 18,
+      "mape_kcal": 0.75,
+      "accuracy_at_20pct": 0.3889
+    },
+    "bread": {
+      "n": 7,
+      "mape_kcal": 3.4375,
+      "accuracy_at_20pct": 0.0
+    },
+    "bun": {
+      "n": 8,
+      "mape_kcal": 0.5172,
+      "accuracy_at_20pct": 0.0
+    },
+    "doughnut": {
+      "n": 9,
+      "mape_kcal": 0.1016,
+      "accuracy_at_20pct": 0.8889
+    },
+    "egg": {
+      "n": 6,
+      "mape_kcal": 0.2589,
+      "accuracy_at_20pct": 0.3333
+    },
+    "fired_dough_twist": {
+      "n": 7,
+      "mape_kcal": 0.3642,
+      "accuracy_at_20pct": 0.2857
+    },
+    "grape": {
+      "n": 2,
+      "mape_kcal": 2.2767,
+      "accuracy_at_20pct": 0.0
+    },
+    "lemon": {
+      "n": 8,
+      "mape_kcal": 0.2918,
+      "accuracy_at_20pct": 0.125
+    },
+    "litchi": {
+      "n": 5,
+      "mape_kcal": 0.1564,
+      "accuracy_at_20pct": 0.6
+    },
+    "mango": {
+      "n": 11,
+      "mape_kcal": 0.3231,
+      "accuracy_at_20pct": 0.1818
+    },
+    "mooncake": {
+      "n": 6,
+      "mape_kcal": 0.3407,
+      "accuracy_at_20pct": 0.0
+    },
+    "orange": {
+      "n": 16,
+      "mape_kcal": 0.2288,
+      "accuracy_at_20pct": 0.4375
+    },
+    "peach": {
+      "n": 5,
+      "mape_kcal": 0.1897,
+      "accuracy_at_20pct": 0.4
+    },
+    "pear": {
+      "n": 6,
+      "mape_kcal": 0.2972,
+      "accuracy_at_20pct": 0.0
+    },
+    "plum": {
+      "n": 4,
+      "mape_kcal": 0.1539,
+      "accuracy_at_20pct": 0.5
+    },
+    "qiwi": {
+      "n": 8,
+      "mape_kcal": 0.2589,
+      "accuracy_at_20pct": 0.375
+    },
+    "sachima": {
+      "n": 5,
+      "mape_kcal": 0.233,
+      "accuracy_at_20pct": 0.4
+    },
+    "tomato": {
+      "n": 4,
+      "mape_kcal": 0.1337,
+      "accuracy_at_20pct": 0.75
+    }
+  },
+  "per_class_v2": {
+    "apple": {
+      "n": 23,
+      "mape_kcal": 0.242,
+      "accuracy_at_20pct": 0.4348
+    },
+    "banana": {
+      "n": 18,
+      "mape_kcal": 0.7909,
+      "accuracy_at_20pct": 0.1111
+    },
+    "bread": {
+      "n": 7,
+      "mape_kcal": 2.5655,
+      "accuracy_at_20pct": 0.0
+    },
+    "bun": {
+      "n": 8,
+      "mape_kcal": 0.1909,
+      "accuracy_at_20pct": 0.625
+    },
+    "doughnut": {
+      "n": 9,
+      "mape_kcal": 0.689,
+      "accuracy_at_20pct": 0.1111
+    },
+    "egg": {
+      "n": 6,
+      "mape_kcal": 0.0761,
+      "accuracy_at_20pct": 0.8333
+    },
+    "fired_dough_twist": {
+      "n": 7,
+      "mape_kcal": 0.6629,
+      "accuracy_at_20pct": 0.0
+    },
+    "grape": {
+      "n": 2,
+      "mape_kcal": 2.3677,
+      "accuracy_at_20pct": 0.0
+    },
+    "lemon": {
+      "n": 8,
+      "mape_kcal": 0.2165,
+      "accuracy_at_20pct": 0.375
+    },
+    "litchi": {
+      "n": 5,
+      "mape_kcal": 0.0916,
+      "accuracy_at_20pct": 0.8
+    },
+    "mango": {
+      "n": 11,
+      "mape_kcal": 0.1424,
+      "accuracy_at_20pct": 0.9091
+    },
+    "mooncake": {
+      "n": 6,
+      "mape_kcal": 0.5471,
+      "accuracy_at_20pct": 0.0
+    },
+    "orange": {
+      "n": 16,
+      "mape_kcal": 0.2231,
+      "accuracy_at_20pct": 0.5
+    },
+    "peach": {
+      "n": 5,
+      "mape_kcal": 0.1323,
+      "accuracy_at_20pct": 0.8
+    },
+    "pear": {
+      "n": 6,
+      "mape_kcal": 0.2047,
+      "accuracy_at_20pct": 0.5
+    },
+    "plum": {
+      "n": 4,
+      "mape_kcal": 0.0931,
+      "accuracy_at_20pct": 1.0
+    },
+    "qiwi": {
+      "n": 8,
+      "mape_kcal": 0.1934,
+      "accuracy_at_20pct": 0.5
+    },
+    "sachima": {
+      "n": 5,
+      "mape_kcal": 0.6851,
+      "accuracy_at_20pct": 0.0
+    },
+    "tomato": {
+      "n": 4,
+      "mape_kcal": 0.0878,
+      "accuracy_at_20pct": 1.0
+    }
+  },
+  "elapsed_s": 0.1
+}

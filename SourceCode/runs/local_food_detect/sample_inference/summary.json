@@ -1,0 +1,82 @@
+[
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\apple015S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\apple015S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "apple": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\banana011S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\banana011S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "banana": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\bread004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\bread004S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "coin": 1,
+      "bread": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\bun004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\bun004S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "bun": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\doughnut006S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\doughnut006S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "doughnut": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\egg004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\egg004S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "egg": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\fired_dough_twist004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\fired_dough_twist004S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "fired_dough_twist": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\grape002S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\sample_inference\\grape002S(1)_pred.jpg",
+    "detections": 2,
+    "class_counts": {
+      "grape": 1,
+      "coin": 1
+    },
+    "has_coin": true
+  }
+]

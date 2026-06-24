@@ -1,0 +1,13 @@
+{
+  "model": "yolov13_to_v8n_distilled",
+  "weights": "E:\\AI_Research\\Model yolov13 cho TTCS\\runs\\distill_v13_to_v8\\student_train\\weights\\best.pt",
+  "mAP50": 0.9912585356917267,
+  "mAP50_95": 0.9123959339987967,
+  "precision": 0.9867499696997217,
+  "recall": 0.9863190385057534,
+  "params_M": 3.009548,
+  "latency_ms": 18.934924000059254,
+  "fps": 52.81246441743683,
+  "n_test_images": 100,
+  "device": "cuda:0"
+}

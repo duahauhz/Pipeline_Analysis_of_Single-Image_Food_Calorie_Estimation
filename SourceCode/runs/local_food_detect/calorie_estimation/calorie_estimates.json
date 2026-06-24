@@ -1,0 +1,394 @@
+[
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\apple015S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\apple015S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\apple015S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.927012026309967,
+      "bbox": [
+        126.39875030517578,
+        386.86383056640625,
+        193.04002380371094,
+        451.5144958496094
+      ],
+      "width_px": 66.64127349853516,
+      "height_px": 64.65066528320312
+    },
+    "mm_per_pixel": 0.3808306927595971,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\apple015S(1).JPG",
+        "detection_id": 1,
+        "class_id": 0,
+        "class_name": "apple",
+        "confidence": 0.9719204902648926,
+        "bbox": [
+          383.40228271484375,
+          240.33932495117188,
+          606.397216796875,
+          435.6297302246094
+        ],
+        "width_px": 222.99493408203125,
+        "height_px": 195.2904052734375,
+        "width_mm": 84.92331522834064,
+        "height_mm": 74.37258032958567,
+        "depth_mm": 63.21669328014782,
+        "geometry": "ellipsoid",
+        "density_g_cm3": 0.84,
+        "kcal_per_100g": 52,
+        "volume_cm3": 209.05963444740314,
+        "mass_g": 175.61009293581864,
+        "calorie_kcal": 91.31724832662569
+      }
+    ],
+    "total_calorie_kcal": 91.31724832662569,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\banana011S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\banana011S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\banana011S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9400672912597656,
+      "bbox": [
+        113.33120727539062,
+        360.3691101074219,
+        180.46466064453125,
+        426.0400390625
+      ],
+      "width_px": 67.13345336914062,
+      "height_px": 65.67092895507812
+    },
+    "mm_per_pixel": 0.3764936000224278,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\banana011S(1).JPG",
+        "detection_id": 1,
+        "class_id": 1,
+        "class_name": "banana",
+        "confidence": 0.9474499225616455,
+        "bbox": [
+          357.98223876953125,
+          320.0740051269531,
+          723.5368041992188,
+          415.59521484375
+        ],
+        "width_px": 365.5545654296875,
+        "height_px": 95.52120971679688,
+        "width_mm": 137.6289543432572,
+        "height_mm": 35.96312412477417,
+        "depth_mm": 19.779718268625793,
+        "geometry": "ellipsoid",
+        "density_g_cm3": 0.94,
+        "kcal_per_100g": 89,
+        "volume_cm3": 51.26086684088252,
+        "mass_g": 48.185214830429565,
+        "calorie_kcal": 42.88484119908231
+      }
+    ],
+    "total_calorie_kcal": 42.88484119908231,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\bread004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\bread004S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\bread004S(1).JPG",
+      "detection_id": 1,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9816461205482483,
+      "bbox": [
+        39.604923248291016,
+        320.8832702636719,
+        142.03329467773438,
+        418.40863037109375
+      ],
+      "width_px": 102.42837142944336,
+      "height_px": 97.52536010742188
+    },
+    "mm_per_pixel": 0.25005784896183125,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\bread004S(1).JPG",
+        "detection_id": 2,
+        "class_id": 2,
+        "class_name": "bread",
+        "confidence": 0.9619470238685608,
+        "bbox": [
+          312.79754638671875,
+          301.2662048339844,
+          786.9140625,
+          422.65643310546875
+        ],
+        "width_px": 474.11651611328125,
+        "height_px": 121.39022827148438,
+        "width_mm": 118.55655617656451,
+        "height_mm": 30.354579366553057,
+        "depth_mm": 13.659560714948876,
+        "geometry": "box",
+        "density_g_cm3": 0.27,
+        "kcal_per_100g": 265,
+        "volume_cm3": 49.15713095027058,
+        "mass_g": 13.272425356573057,
+        "calorie_kcal": 35.1719271949186
+      }
+    ],
+    "total_calorie_kcal": 35.1719271949186,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\bun004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\bun004S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\bun004S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9623814821243286,
+      "bbox": [
+        50.767818450927734,
+        302.0513916015625,
+        124.85646057128906,
+        374.69354248046875
+      ],
+      "width_px": 74.08864212036133,
+      "height_px": 72.64215087890625
+    },
+    "mm_per_pixel": 0.3407601020751628,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\bun004S(1).JPG",
+        "detection_id": 1,
+        "class_id": 3,
+        "class_name": "bun",
+        "confidence": 0.9868789315223694,
+        "bbox": [
+          461.4302978515625,
+          203.81007385253906,
+          689.4547729492188,
+          384.9560546875
+        ],
+        "width_px": 228.02447509765625,
+        "height_px": 181.14598083496094,
+        "width_mm": 77.70164340991276,
+        "height_mm": 61.72732291982677,
+        "depth_mm": 27.777295313922046,
+        "geometry": "ellipsoid",
+        "density_g_cm3": 0.35,
+        "kcal_per_100g": 223,
+        "volume_cm3": 69.75835406470335,
+        "mass_g": 24.415423922646173,
+        "calorie_kcal": 54.44639534750097
+      }
+    ],
+    "total_calorie_kcal": 54.44639534750097,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\doughnut006S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\doughnut006S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\doughnut006S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9650264382362366,
+      "bbox": [
+        97.16913604736328,
+        351.57012939453125,
+        164.481689453125,
+        416.2567443847656
+      ],
+      "width_px": 67.31255340576172,
+      "height_px": 64.68661499023438
+    },
+    "mm_per_pixel": 0.3787902651780391,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\doughnut006S(1).JPG",
+        "detection_id": 1,
+        "class_id": 4,
+        "class_name": "doughnut",
+        "confidence": 0.9660785794258118,
+        "bbox": [
+          412.9683837890625,
+          311.8799133300781,
+          681.2100830078125,
+          413.2358703613281
+        ],
+        "width_px": 268.24169921875,
+        "height_px": 101.35595703125,
+        "width_mm": 101.60734437887811,
+        "height_mm": 38.39264984124112,
+        "depth_mm": 13.437427444434393,
+        "geometry": "cylinder",
+        "density_g_cm3": 0.33,
+        "kcal_per_100g": 452,
+        "volume_cm3": 41.16984219439195,
+        "mass_g": 13.586047924149343,
+        "calorie_kcal": 61.408936617155035
+      }
+    ],
+    "total_calorie_kcal": 61.408936617155035,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\egg004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\egg004S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\egg004S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9474789500236511,
+      "bbox": [
+        50.062347412109375,
+        337.6932067871094,
+        122.81446838378906,
+        409.21881103515625
+      ],
+      "width_px": 72.75212097167969,
+      "height_px": 71.52560424804688
+    },
+    "mm_per_pixel": 0.34655384206988926,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\egg004S(1).JPG",
+        "detection_id": 1,
+        "class_id": 5,
+        "class_name": "egg",
+        "confidence": 0.9855341911315918,
+        "bbox": [
+          581.6314697265625,
+          270.94915771484375,
+          727.5009765625,
+          406.6607971191406
+        ],
+        "width_px": 145.8695068359375,
+        "height_px": 135.71163940429688,
+        "width_mm": 50.55163803483411,
+        "height_mm": 47.03139004916246,
+        "depth_mm": 35.273542536871844,
+        "geometry": "ellipsoid",
+        "density_g_cm3": 1.03,
+        "kcal_per_100g": 155,
+        "volume_cm3": 43.91073919339009,
+        "mass_g": 45.2280613691918,
+        "calorie_kcal": 70.10349512224728
+      }
+    ],
+    "total_calorie_kcal": 70.10349512224728,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\fired_dough_twist004S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\fired_dough_twist004S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\fired_dough_twist004S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9706382155418396,
+      "bbox": [
+        85.83304595947266,
+        294.25714111328125,
+        159.24481201171875,
+        365.84881591796875
+      ],
+      "width_px": 73.4117660522461,
+      "height_px": 71.5916748046875
+    },
+    "mm_per_pixel": 0.34481940362596,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\fired_dough_twist004S(1).JPG",
+        "detection_id": 1,
+        "class_id": 6,
+        "class_name": "fired_dough_twist",
+        "confidence": 0.9727261066436768,
+        "bbox": [
+          414.87677001953125,
+          236.5701141357422,
+          689.815673828125,
+          349.6762390136719
+        ],
+        "width_px": 274.93890380859375,
+        "height_px": 113.10612487792969,
+        "width_mm": 94.80426884485448,
+        "height_mm": 39.00118652685107,
+        "depth_mm": 13.650415284397875,
+        "geometry": "cylinder",
+        "density_g_cm3": 0.35,
+        "kcal_per_100g": 450,
+        "volume_cm3": 39.640713086711344,
+        "mass_g": 13.87424958034897,
+        "calorie_kcal": 62.43412311157036
+      }
+    ],
+    "total_calorie_kcal": 62.43412311157036,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  },
+  {
+    "image": "datasets\\ECUSTFD\\images\\test\\grape002S(1).JPG",
+    "output_image": "runs\\local_food_detect\\output\\calorie_estimation\\grape002S(1)_calorie.jpg",
+    "status": "ok",
+    "coin": {
+      "image": "datasets\\ECUSTFD\\images\\test\\grape002S(1).JPG",
+      "detection_id": 2,
+      "class_id": 19,
+      "class_name": "coin",
+      "confidence": 0.9218254685401917,
+      "bbox": [
+        112.79850769042969,
+        320.262451171875,
+        179.33099365234375,
+        384.86004638671875
+      ],
+      "width_px": 66.53248596191406,
+      "height_px": 64.59759521484375
+    },
+    "mm_per_pixel": 0.38130076296225357,
+    "foods": [
+      {
+        "image": "datasets\\ECUSTFD\\images\\test\\grape002S(1).JPG",
+        "detection_id": 1,
+        "class_id": 7,
+        "class_name": "grape",
+        "confidence": 0.9877739548683167,
+        "bbox": [
+          382.1277160644531,
+          174.4481201171875,
+          690.9356689453125,
+          369.53411865234375
+        ],
+        "width_px": 308.8079528808594,
+        "height_px": 195.08599853515625,
+        "width_mm": 117.74870804228333,
+        "height_mm": 74.38644008470816,
+        "depth_mm": 66.94779607623734,
+        "geometry": "ellipsoid",
+        "density_g_cm3": 0.96,
+        "kcal_per_100g": 69,
+        "volume_cm3": 307.03284209762245,
+        "mass_g": 294.75152841371755,
+        "calorie_kcal": 203.3785546054651
+      }
+    ],
+    "total_calorie_kcal": 203.3785546054651,
+    "note": "Prototype uses fallback density/calorie data, not density.xls ground truth."
+  }
+]

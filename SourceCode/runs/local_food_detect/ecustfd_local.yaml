@@ -1,0 +1,26 @@
+path: E:/AI_Research/Model yolov13 cho TTCS/datasets/ECUSTFD
+train: images/train
+val: images/val
+test: images/test
+nc: 20
+names:
+  0: apple
+  1: banana
+  2: bread
+  3: bun
+  4: doughnut
+  5: egg
+  6: fired_dough_twist
+  7: grape
+  8: lemon
+  9: litchi
+  10: mango
+  11: mooncake
+  12: orange
+  13: peach
+  14: pear
+  15: plum
+  16: qiwi
+  17: sachima
+  18: tomato
+  19: coin

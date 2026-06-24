@@ -1,0 +1,1814 @@
+{
+  "source_file": "E:\\AI_Research\\Model yolov13 cho TTCS\\data\\density.xls",
+  "n_sheets": 19,
+  "classes": [
+    "apple",
+    "banana",
+    "bread",
+    "bun",
+    "doughnut",
+    "egg",
+    "fired_dough_twist",
+    "grape",
+    "lemon",
+    "litchi",
+    "mango",
+    "mooncake",
+    "orange",
+    "peach",
+    "pear",
+    "plum",
+    "qiwi",
+    "sachima",
+    "tomato"
+  ],
+  "per_image": {
+    "apple001": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 310.0,
+      "volume_raw_mm3": 310.0,
+      "weight_g": 244.5,
+      "density_g_cm3": 0.7887096774193548
+    },
+    "apple002": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 290.0,
+      "volume_raw_mm3": 290.0,
+      "weight_g": 232.5,
+      "density_g_cm3": 0.8017241379310345
+    },
+    "apple003": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 280.0,
+      "volume_raw_mm3": 280.0,
+      "weight_g": 219.0,
+      "density_g_cm3": 0.7821428571428571
+    },
+    "apple004": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 300.0,
+      "volume_raw_mm3": 300.0,
+      "weight_g": 234.0,
+      "density_g_cm3": 0.78
+    },
+    "apple005": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 280.0,
+      "volume_raw_mm3": 280.0,
+      "weight_g": 212.5,
+      "density_g_cm3": 0.7589285714285714
+    },
+    "apple006": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 290.0,
+      "volume_raw_mm3": 290.0,
+      "weight_g": 238.0,
+      "density_g_cm3": 0.8206896551724138
+    },
+    "apple007": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 420.0,
+      "volume_raw_mm3": 420.0,
+      "weight_g": 325.0,
+      "density_g_cm3": 0.7738095238095238
+    },
+    "apple008": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 300.0,
+      "volume_raw_mm3": 300.0,
+      "weight_g": 238.0,
+      "density_g_cm3": 0.7933333333333333
+    },
+    "apple009": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 360.0,
+      "volume_raw_mm3": 360.0,
+      "weight_g": 288.5,
+      "density_g_cm3": 0.8013888888888889
+    },
+    "apple010": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 330.0,
+      "volume_raw_mm3": 330.0,
+      "weight_g": 260.5,
+      "density_g_cm3": 0.7893939393939394
+    },
+    "apple011": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 310.0,
+      "volume_raw_mm3": 310.0,
+      "weight_g": 230.0,
+      "density_g_cm3": 0.7419354838709677
+    },
+    "apple012": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 310.0,
+      "volume_raw_mm3": 310.0,
+      "weight_g": 246.0,
+      "density_g_cm3": 0.7935483870967742
+    },
+    "apple013": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 350.0,
+      "volume_raw_mm3": 350.0,
+      "weight_g": 252.5,
+      "density_g_cm3": 0.7214285714285714
+    },
+    "apple014": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 290.0,
+      "volume_raw_mm3": 290.0,
+      "weight_g": 236.0,
+      "density_g_cm3": 0.8137931034482758
+    },
+    "apple015": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 390.0,
+      "volume_raw_mm3": 390.0,
+      "weight_g": 293.5,
+      "density_g_cm3": 0.7525641025641026
+    },
+    "apple016": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 330.0,
+      "volume_raw_mm3": 330.0,
+      "weight_g": 272.5,
+      "density_g_cm3": 0.8257575757575758
+    },
+    "apple017": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 330.0,
+      "volume_raw_mm3": 330.0,
+      "weight_g": 255.0,
+      "density_g_cm3": 0.7727272727272727
+    },
+    "apple018": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 290.0,
+      "volume_raw_mm3": 290.0,
+      "weight_g": 231.5,
+      "density_g_cm3": 0.7982758620689655
+    },
+    "apple019": {
+      "class": "apple",
+      "classes": [
+        "apple"
+      ],
+      "volume_cm3": 300.0,
+      "volume_raw_mm3": 300.0,
+      "weight_g": 255.0,
+      "density_g_cm3": 0.85
+    },
+    "banana001": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 149.8,
+      "density_g_cm3": 0.9986666666666667
+    },
+    "banana002": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 156.9,
+      "density_g_cm3": 0.9229411764705883
+    },
+    "banana003": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 139.0,
+      "density_g_cm3": 0.9266666666666666
+    },
+    "banana004": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 159.6,
+      "density_g_cm3": 0.7979999999999999
+    },
+    "banana005": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 153.5,
+      "density_g_cm3": 1.0233333333333334
+    },
+    "banana006": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 144.0,
+      "density_g_cm3": 0.96
+    },
+    "banana007": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 141.4,
+      "density_g_cm3": 0.9426666666666667
+    },
+    "banana008": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 155.1,
+      "density_g_cm3": 0.9123529411764706
+    },
+    "banana009": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 210.0,
+      "volume_raw_mm3": 210.0,
+      "weight_g": 183.5,
+      "density_g_cm3": 0.8738095238095238
+    },
+    "banana010": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 190.0,
+      "volume_raw_mm3": 190.0,
+      "weight_g": 173.5,
+      "density_g_cm3": 0.9131578947368421
+    },
+    "banana011": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 130.0,
+      "volume_raw_mm3": 130.0,
+      "weight_g": 128.3,
+      "density_g_cm3": 0.986923076923077
+    },
+    "banana012": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 140.0,
+      "volume_raw_mm3": 140.0,
+      "weight_g": 117.1,
+      "density_g_cm3": 0.8364285714285714
+    },
+    "banana013": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 190.0,
+      "volume_raw_mm3": 190.0,
+      "weight_g": 160.1,
+      "density_g_cm3": 0.8426315789473684
+    },
+    "banana014": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 157.0,
+      "density_g_cm3": 0.9235294117647059
+    },
+    "banana015": {
+      "class": "banana",
+      "classes": [
+        "banana"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 164.8,
+      "density_g_cm3": 0.9694117647058824
+    },
+    "bread001": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 140.0,
+      "volume_raw_mm3": 140.0,
+      "weight_g": 26.6,
+      "density_g_cm3": 0.19
+    },
+    "bread002": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 28.8,
+      "density_g_cm3": 0.192
+    },
+    "bread003": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 160.0,
+      "volume_raw_mm3": 160.0,
+      "weight_g": 26.0,
+      "density_g_cm3": 0.1625
+    },
+    "bread004": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 27.7,
+      "density_g_cm3": 0.16294117647058823
+    },
+    "bread005": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 26.4,
+      "density_g_cm3": 0.1552941176470588
+    },
+    "bread006": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 140.0,
+      "volume_raw_mm3": 140.0,
+      "weight_g": 28.4,
+      "density_g_cm3": 0.20285714285714285
+    },
+    "bread007": {
+      "class": "bread",
+      "classes": [
+        "bread"
+      ],
+      "volume_cm3": 140.0,
+      "volume_raw_mm3": 140.0,
+      "weight_g": 33.0,
+      "density_g_cm3": 0.2357142857142857
+    },
+    "bun001": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 210.0,
+      "volume_raw_mm3": 210.0,
+      "weight_g": 80.4,
+      "density_g_cm3": 0.3828571428571429
+    },
+    "bun002": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 230.0,
+      "volume_raw_mm3": 230.0,
+      "weight_g": 93.6,
+      "density_g_cm3": 0.4069565217391304
+    },
+    "bun003": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 270.0,
+      "volume_raw_mm3": 270.0,
+      "weight_g": 93.2,
+      "density_g_cm3": 0.3451851851851852
+    },
+    "bun004": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 270.0,
+      "volume_raw_mm3": 270.0,
+      "weight_g": 83.9,
+      "density_g_cm3": 0.31074074074074076
+    },
+    "bun005": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 210.0,
+      "volume_raw_mm3": 210.0,
+      "weight_g": 69.1,
+      "density_g_cm3": 0.32904761904761903
+    },
+    "bun006": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 78.3,
+      "density_g_cm3": 0.30115384615384616
+    },
+    "bun007": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 84.4,
+      "density_g_cm3": 0.32461538461538464
+    },
+    "bun008": {
+      "class": "bun",
+      "classes": [
+        "bun"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 69.5,
+      "density_g_cm3": 0.3475
+    },
+    "doughnut001": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 49.0,
+      "density_g_cm3": 0.28823529411764703
+    },
+    "doughnut002": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 220.0,
+      "volume_raw_mm3": 220.0,
+      "weight_g": 65.6,
+      "density_g_cm3": 0.29818181818181816
+    },
+    "doughnut003": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 220.0,
+      "volume_raw_mm3": 220.0,
+      "weight_g": 67.1,
+      "density_g_cm3": 0.305
+    },
+    "doughnut004": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 62.5,
+      "density_g_cm3": 0.3125
+    },
+    "doughnut005": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 220.0,
+      "volume_raw_mm3": 220.0,
+      "weight_g": 64.4,
+      "density_g_cm3": 0.2927272727272728
+    },
+    "doughnut006": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 160.0,
+      "volume_raw_mm3": 160.0,
+      "weight_g": 66.2,
+      "density_g_cm3": 0.41375
+    },
+    "doughnut007": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 190.0,
+      "volume_raw_mm3": 190.0,
+      "weight_g": 52.4,
+      "density_g_cm3": 0.27578947368421053
+    },
+    "doughnut008": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 54.7,
+      "density_g_cm3": 0.32176470588235295
+    },
+    "doughnut009": {
+      "class": "doughnut",
+      "classes": [
+        "doughnut"
+      ],
+      "volume_cm3": 180.0,
+      "volume_raw_mm3": 180.0,
+      "weight_g": 50.6,
+      "density_g_cm3": 0.28111111111111114
+    },
+    "egg001": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 57.0,
+      "density_g_cm3": 1.14
+    },
+    "egg002": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 62.0,
+      "density_g_cm3": 1.24
+    },
+    "egg003": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 54.5,
+      "density_g_cm3": 1.09
+    },
+    "egg004": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 59.2,
+      "density_g_cm3": 1.1840000000000002
+    },
+    "egg005": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 59.5,
+      "density_g_cm3": 1.19
+    },
+    "egg006": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 57.0,
+      "density_g_cm3": 1.14
+    },
+    "egg007": {
+      "class": "egg",
+      "classes": [
+        "egg"
+      ],
+      "volume_cm3": 60.0,
+      "volume_raw_mm3": 60.0,
+      "weight_g": 68.9,
+      "density_g_cm3": 1.1483333333333334
+    },
+    "fired_dough_twist001": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 60.0,
+      "volume_raw_mm3": 60.0,
+      "weight_g": 37.8,
+      "density_g_cm3": 0.63
+    },
+    "fired_dough_twist002": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 70.0,
+      "volume_raw_mm3": 70.0,
+      "weight_g": 45.9,
+      "density_g_cm3": 0.6557142857142857
+    },
+    "fired_dough_twist003": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 80.0,
+      "volume_raw_mm3": 80.0,
+      "weight_g": 41.7,
+      "density_g_cm3": 0.52125
+    },
+    "fired_dough_twist004": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 60.0,
+      "volume_raw_mm3": 60.0,
+      "weight_g": 39.6,
+      "density_g_cm3": 0.66
+    },
+    "fired_dough_twist005": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 90.0,
+      "volume_raw_mm3": 90.0,
+      "weight_g": 45.1,
+      "density_g_cm3": 0.5011111111111112
+    },
+    "fired_dough_twist006": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 40.2,
+      "density_g_cm3": 0.804
+    },
+    "fired_dough_twist007": {
+      "class": "fired_dough_twist",
+      "classes": [
+        "fired_dough_twist"
+      ],
+      "volume_cm3": 60.0,
+      "volume_raw_mm3": 60.0,
+      "weight_g": 38.4,
+      "density_g_cm3": 0.64
+    },
+    "grape001": {
+      "class": "grape",
+      "classes": [
+        "grape"
+      ],
+      "volume_cm3": 450.0,
+      "volume_raw_mm3": 450.0,
+      "weight_g": 448.0,
+      "density_g_cm3": 0.9955555555555555
+    },
+    "grape002": {
+      "class": "grape",
+      "classes": [
+        "grape"
+      ],
+      "volume_cm3": 240.0,
+      "volume_raw_mm3": 240.0,
+      "weight_g": 219.5,
+      "density_g_cm3": 0.9145833333333333
+    },
+    "lemon001": {
+      "class": "lemon",
+      "classes": [
+        "lemon"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 94.2,
+      "density_g_cm3": 0.9420000000000001
+    },
+    "lemon002": {
+      "class": "lemon",
+      "classes": [
+        "lemon"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 97.5,
+      "density_g_cm3": 0.975
+    },
+    "lemon003": {
+      "class": "lemon",
+      "classes": [
+        "lemon"
+      ],
+      "volume_cm3": 90.0,
+      "volume_raw_mm3": 90.0,
+      "weight_g": 92.3,
+      "density_g_cm3": 1.0255555555555556
+    },
+    "lemon004": {
+      "class": "lemon",
+      "classes": [
+        "lemon"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 90.1,
+      "density_g_cm3": 0.9009999999999999
+    },
+    "litchi001": {
+      "class": "litchi",
+      "classes": [
+        "litchi"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 38.4,
+      "density_g_cm3": 0.96
+    },
+    "litchi002": {
+      "class": "litchi",
+      "classes": [
+        "litchi"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 39.8,
+      "density_g_cm3": 0.9949999999999999
+    },
+    "litchi003": {
+      "class": "litchi",
+      "classes": [
+        "litchi"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 51.5,
+      "density_g_cm3": 1.03
+    },
+    "litchi004": {
+      "class": "litchi",
+      "classes": [
+        "litchi"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 40.9,
+      "density_g_cm3": 1.0225
+    },
+    "litchi005": {
+      "class": "litchi",
+      "classes": [
+        "litchi"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 39.0,
+      "density_g_cm3": 0.975
+    },
+    "mango001": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 180.0,
+      "volume_raw_mm3": 180.0,
+      "weight_g": 192.3,
+      "density_g_cm3": 1.0683333333333334
+    },
+    "mango002": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 130.0,
+      "volume_raw_mm3": 130.0,
+      "weight_g": 150.5,
+      "density_g_cm3": 1.1576923076923078
+    },
+    "mango003": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 203.0,
+      "density_g_cm3": 1.015
+    },
+    "mango004": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 60.0,
+      "volume_raw_mm3": 60.0,
+      "weight_g": 55.1,
+      "density_g_cm3": 0.9183333333333333
+    },
+    "mango005": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 68.3,
+      "density_g_cm3": 1.3659999999999999
+    },
+    "mango006": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 90.0,
+      "volume_raw_mm3": 90.0,
+      "weight_g": 87.6,
+      "density_g_cm3": 0.9733333333333333
+    },
+    "mango007": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 70.9,
+      "density_g_cm3": 1.4180000000000001
+    },
+    "mango008": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 110.0,
+      "volume_raw_mm3": 110.0,
+      "weight_g": 99.7,
+      "density_g_cm3": 0.9063636363636364
+    },
+    "mango009": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 80.0,
+      "volume_raw_mm3": 80.0,
+      "weight_g": 86.2,
+      "density_g_cm3": 1.0775000000000001
+    },
+    "mango010": {
+      "class": "mango",
+      "classes": [
+        "mango"
+      ],
+      "volume_cm3": 90.0,
+      "volume_raw_mm3": 90.0,
+      "weight_g": 104.3,
+      "density_g_cm3": 1.1588888888888889
+    },
+    "mix001": {
+      "class": "apple",
+      "classes": [
+        "apple",
+        "orange"
+      ],
+      "volume_cm3": 560.0,
+      "volume_raw_mm3": 560.0,
+      "weight_g": 416.9,
+      "density_g_cm3": 0.7444642857142857
+    },
+    "mix002": {
+      "class": "apple",
+      "classes": [
+        "apple",
+        "banana"
+      ],
+      "volume_cm3": 470.0,
+      "volume_raw_mm3": 470.0,
+      "weight_g": 393.1,
+      "density_g_cm3": 0.8363829787234043
+    },
+    "mix003": {
+      "class": "apple",
+      "classes": [
+        "apple",
+        "qiwi"
+      ],
+      "volume_cm3": 410.0,
+      "volume_raw_mm3": 410.0,
+      "weight_g": 363.5,
+      "density_g_cm3": 0.8865853658536585
+    },
+    "mix004": {
+      "class": "apple",
+      "classes": [
+        "apple",
+        "qiwi"
+      ],
+      "volume_cm3": 540.0,
+      "volume_raw_mm3": 540.0,
+      "weight_g": 421.5,
+      "density_g_cm3": 0.7805555555555556
+    },
+    "mix005": {
+      "class": "mango",
+      "classes": [
+        "mango",
+        "qiwi"
+      ],
+      "volume_cm3": 345.0,
+      "volume_raw_mm3": 345.0,
+      "weight_g": 344.5,
+      "density_g_cm3": 0.9985507246376811
+    },
+    "mix006": {
+      "class": "banana",
+      "classes": [
+        "banana",
+        "mango"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 278.8,
+      "density_g_cm3": 1.0723076923076924
+    },
+    "mix007": {
+      "class": "banana",
+      "classes": [
+        "banana",
+        "mango"
+      ],
+      "volume_cm3": 340.0,
+      "volume_raw_mm3": 340.0,
+      "weight_g": 320.1,
+      "density_g_cm3": 0.9414705882352942
+    },
+    "mix008": {
+      "class": "banana",
+      "classes": [
+        "banana",
+        "tomato"
+      ],
+      "volume_cm3": 380.0,
+      "volume_raw_mm3": 380.0,
+      "weight_g": 314.29999999999995,
+      "density_g_cm3": 0.8271052631578946
+    },
+    "mix009": {
+      "class": "lemon",
+      "classes": [
+        "lemon",
+        "orange"
+      ],
+      "volume_cm3": 370.0,
+      "volume_raw_mm3": 370.0,
+      "weight_g": 326.7,
+      "density_g_cm3": 0.882972972972973
+    },
+    "mix010": {
+      "class": "lemon",
+      "classes": [
+        "lemon",
+        "tomato"
+      ],
+      "volume_cm3": 280.0,
+      "volume_raw_mm3": 280.0,
+      "weight_g": 283.9,
+      "density_g_cm3": 1.0139285714285713
+    },
+    "mix011": {
+      "class": "orange",
+      "classes": [
+        "orange",
+        "tomato"
+      ],
+      "volume_cm3": 420.0,
+      "volume_raw_mm3": 420.0,
+      "weight_g": 407.4,
+      "density_g_cm3": 0.97
+    },
+    "mix012": {
+      "class": "lemon",
+      "classes": [
+        "lemon",
+        "orange"
+      ],
+      "volume_cm3": 340.0,
+      "volume_raw_mm3": 340.0,
+      "weight_g": 314.3,
+      "density_g_cm3": 0.9244117647058824
+    },
+    "mix013": {
+      "class": "lemon",
+      "classes": [
+        "lemon",
+        "pear"
+      ],
+      "volume_cm3": 360.0,
+      "volume_raw_mm3": 360.0,
+      "weight_g": 339.1,
+      "density_g_cm3": 0.9419444444444445
+    },
+    "mix014": {
+      "class": "mango",
+      "classes": [
+        "mango",
+        "pear"
+      ],
+      "volume_cm3": 290.0,
+      "volume_raw_mm3": 290.0,
+      "weight_g": 291.7,
+      "density_g_cm3": 1.005862068965517
+    },
+    "mooncake001": {
+      "class": "mooncake",
+      "classes": [
+        "mooncake"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 39.9,
+      "density_g_cm3": 0.9974999999999999
+    },
+    "mooncake002": {
+      "class": "mooncake",
+      "classes": [
+        "mooncake"
+      ],
+      "volume_cm3": 30.0,
+      "volume_raw_mm3": 30.0,
+      "weight_g": 43.8,
+      "density_g_cm3": 1.46
+    },
+    "mooncake003": {
+      "class": "mooncake",
+      "classes": [
+        "mooncake"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 45.1,
+      "density_g_cm3": 1.1275
+    },
+    "mooncake004": {
+      "class": "mooncake",
+      "classes": [
+        "mooncake"
+      ],
+      "volume_cm3": 40.0,
+      "volume_raw_mm3": 40.0,
+      "weight_g": 41.8,
+      "density_g_cm3": 1.045
+    },
+    "mooncake005": {
+      "class": "mooncake",
+      "classes": [
+        "mooncake"
+      ],
+      "volume_cm3": 60.0,
+      "volume_raw_mm3": 60.0,
+      "weight_g": 47.3,
+      "density_g_cm3": 0.7883333333333333
+    },
+    "mooncake006": {
+      "class": "mooncake",
+      "classes": [
+        "mooncake"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 126.0,
+      "density_g_cm3": 0.84
+    },
+    "orange001": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 160.0,
+      "volume_raw_mm3": 160.0,
+      "weight_g": 220.5,
+      "density_g_cm3": 1.378125
+    },
+    "orange002": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 280.0,
+      "volume_raw_mm3": 280.0,
+      "weight_g": 197.9,
+      "density_g_cm3": 0.7067857142857144
+    },
+    "orange003": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 210.0,
+      "volume_raw_mm3": 210.0,
+      "weight_g": 202.5,
+      "density_g_cm3": 0.9642857142857143
+    },
+    "orange004": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 218.0,
+      "density_g_cm3": 0.8384615384615385
+    },
+    "orange005": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 138.9,
+      "density_g_cm3": 0.926
+    },
+    "orange006": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 179.3,
+      "density_g_cm3": 0.8965000000000001
+    },
+    "orange007": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 220.0,
+      "volume_raw_mm3": 220.0,
+      "weight_g": 184.8,
+      "density_g_cm3": 0.8400000000000001
+    },
+    "orange008": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 270.0,
+      "volume_raw_mm3": 270.0,
+      "weight_g": 232.5,
+      "density_g_cm3": 0.8611111111111112
+    },
+    "orange009": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 220.0,
+      "volume_raw_mm3": 220.0,
+      "weight_g": 209.5,
+      "density_g_cm3": 0.9522727272727273
+    },
+    "orange010": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 234.0,
+      "density_g_cm3": 0.9
+    },
+    "orange011": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 250.0,
+      "volume_raw_mm3": 250.0,
+      "weight_g": 222.0,
+      "density_g_cm3": 0.888
+    },
+    "orange012": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 177.3,
+      "density_g_cm3": 0.8865000000000001
+    },
+    "orange013": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 190.0,
+      "volume_raw_mm3": 190.0,
+      "weight_g": 162.3,
+      "density_g_cm3": 0.8542105263157895
+    },
+    "orange014": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 160.0,
+      "volume_raw_mm3": 160.0,
+      "weight_g": 167.5,
+      "density_g_cm3": 1.046875
+    },
+    "orange015": {
+      "class": "orange",
+      "classes": [
+        "orange"
+      ],
+      "volume_cm3": 130.0,
+      "volume_raw_mm3": 130.0,
+      "weight_g": 179.7,
+      "density_g_cm3": 1.3823076923076922
+    },
+    "pear001": {
+      "class": "pear",
+      "classes": [
+        "pear"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 249.0,
+      "density_g_cm3": 0.9576923076923077
+    },
+    "pear002": {
+      "class": "pear",
+      "classes": [
+        "pear"
+      ],
+      "volume_cm3": 210.0,
+      "volume_raw_mm3": 210.0,
+      "weight_g": 205.5,
+      "density_g_cm3": 0.9785714285714285
+    },
+    "pear003": {
+      "class": "pear",
+      "classes": [
+        "pear"
+      ],
+      "volume_cm3": 290.0,
+      "volume_raw_mm3": 290.0,
+      "weight_g": 280.0,
+      "density_g_cm3": 0.9655172413793104
+    },
+    "pear004": {
+      "class": "pear",
+      "classes": [
+        "pear"
+      ],
+      "volume_cm3": 260.0,
+      "volume_raw_mm3": 260.0,
+      "weight_g": 247.0,
+      "density_g_cm3": 0.95
+    },
+    "pear005": {
+      "class": "pear",
+      "classes": [
+        "pear"
+      ],
+      "volume_cm3": 200.0,
+      "volume_raw_mm3": 200.0,
+      "weight_g": 197.5,
+      "density_g_cm3": 0.9875
+    },
+    "pear006": {
+      "class": "pear",
+      "classes": [
+        "pear"
+      ],
+      "volume_cm3": 230.0,
+      "volume_raw_mm3": 230.0,
+      "weight_g": 200.5,
+      "density_g_cm3": 0.8717391304347826
+    },
+    "peach001": {
+      "class": "peach",
+      "classes": [
+        "peach"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 103.8,
+      "density_g_cm3": 1.038
+    },
+    "peach002": {
+      "class": "peach",
+      "classes": [
+        "peach"
+      ],
+      "volume_cm3": 110.0,
+      "volume_raw_mm3": 110.0,
+      "weight_g": 105.8,
+      "density_g_cm3": 0.9618181818181818
+    },
+    "peach003": {
+      "class": "peach",
+      "classes": [
+        "peach"
+      ],
+      "volume_cm3": 110.0,
+      "volume_raw_mm3": 110.0,
+      "weight_g": 108.1,
+      "density_g_cm3": 0.9827272727272727
+    },
+    "peach004": {
+      "class": "peach",
+      "classes": [
+        "peach"
+      ],
+      "volume_cm3": 90.0,
+      "volume_raw_mm3": 90.0,
+      "weight_g": 96.2,
+      "density_g_cm3": 1.068888888888889
+    },
+    "peach005": {
+      "class": "peach",
+      "classes": [
+        "peach"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 158.5,
+      "density_g_cm3": 1.0566666666666666
+    },
+    "plum001": {
+      "class": "plum",
+      "classes": [
+        "plum"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 151.8,
+      "density_g_cm3": 1.012
+    },
+    "plum002": {
+      "class": "plum",
+      "classes": [
+        "plum"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 90.7,
+      "density_g_cm3": 0.907
+    },
+    "plum003": {
+      "class": "plum",
+      "classes": [
+        "plum"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 103.3,
+      "density_g_cm3": 1.033
+    },
+    "plum004": {
+      "class": "plum",
+      "classes": [
+        "plum"
+      ],
+      "volume_cm3": 100.0,
+      "volume_raw_mm3": 100.0,
+      "weight_g": 106.9,
+      "density_g_cm3": 1.069
+    },
+    "qiwi001": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 180.0,
+      "volume_raw_mm3": 180.0,
+      "weight_g": 154.4,
+      "density_g_cm3": 0.8577777777777779
+    },
+    "qiwi002": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 154.9,
+      "density_g_cm3": 1.0326666666666666
+    },
+    "qiwi003": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 144.6,
+      "density_g_cm3": 0.8505882352941176
+    },
+    "qiwi004": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 180.0,
+      "volume_raw_mm3": 180.0,
+      "weight_g": 185.8,
+      "density_g_cm3": 1.0322222222222224
+    },
+    "qiwi005": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 190.0,
+      "volume_raw_mm3": 190.0,
+      "weight_g": 196.0,
+      "density_g_cm3": 1.0315789473684212
+    },
+    "qiwi006": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 120.0,
+      "volume_raw_mm3": 120.0,
+      "weight_g": 127.5,
+      "density_g_cm3": 1.0625
+    },
+    "qiwi007": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 160.0,
+      "volume_raw_mm3": 160.0,
+      "weight_g": 152.2,
+      "density_g_cm3": 0.9512499999999999
+    },
+    "qiwi008": {
+      "class": "qiwi",
+      "classes": [
+        "qiwi"
+      ],
+      "volume_cm3": 50.0,
+      "volume_raw_mm3": 50.0,
+      "weight_g": 52.1,
+      "density_g_cm3": 1.042
+    },
+    "sachima001": {
+      "class": "sachima",
+      "classes": [
+        "sachima"
+      ],
+      "volume_cm3": 170.0,
+      "volume_raw_mm3": 170.0,
+      "weight_g": 37.6,
+      "density_g_cm3": 0.2211764705882353
+    },
+    "sachima002": {
+      "class": "sachima",
+      "classes": [
+        "sachima"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 32.9,
+      "density_g_cm3": 0.21933333333333332
+    },
+    "sachima003": {
+      "class": "sachima",
+      "classes": [
+        "sachima"
+      ],
+      "volume_cm3": 140.0,
+      "volume_raw_mm3": 140.0,
+      "weight_g": 29.0,
+      "density_g_cm3": 0.20714285714285716
+    },
+    "sachima004": {
+      "class": "sachima",
+      "classes": [
+        "sachima"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 33.4,
+      "density_g_cm3": 0.22266666666666665
+    },
+    "sachima005": {
+      "class": "sachima",
+      "classes": [
+        "sachima"
+      ],
+      "volume_cm3": 150.0,
+      "volume_raw_mm3": 150.0,
+      "weight_g": 32.7,
+      "density_g_cm3": 0.21800000000000003
+    },
+    "tomato001": {
+      "class": "tomato",
+      "classes": [
+        "tomato"
+      ],
+      "volume_cm3": 210.0,
+      "volume_raw_mm3": 210.0,
+      "weight_g": 214.5,
+      "density_g_cm3": 1.0214285714285714
+    },
+    "tomato002": {
+      "class": "tomato",
+      "classes": [
+        "tomato"
+      ],
+      "volume_cm3": 190.0,
+      "volume_raw_mm3": 190.0,
+      "weight_g": 154.2,
+      "density_g_cm3": 0.811578947368421
+    },
+    "tomato003": {
+      "class": "tomato",
+      "classes": [
+        "tomato"
+      ],
+      "volume_cm3": 180.0,
+      "volume_raw_mm3": 180.0,
+      "weight_g": 186.4,
+      "density_g_cm3": 1.0355555555555556
+    },
+    "tomato004": {
+      "class": "tomato",
+      "classes": [
+        "tomato"
+      ],
+      "volume_cm3": 160.0,
+      "volume_raw_mm3": 160.0,
+      "weight_g": 173.4,
+      "density_g_cm3": 1.08375
+    }
+  },
+  "per_class": {
+    "apple": {
+      "n": 23,
+      "mean_volume_cm3": 316.5217391304348,
+      "std_volume_cm3": 36.631915500033315,
+      "mean_weight_g": 248.2608695652174,
+      "std_weight_g": 26.20889403393843,
+      "mean_density_g_cm3": 0.78568907864502,
+      "kcal_per_100g_external": null
+    },
+    "banana": {
+      "n": 19,
+      "mean_volume_cm3": 164.21052631578948,
+      "std_volume_cm3": 23.644541177307293,
+      "mean_weight_g": 149.69473684210524,
+      "std_weight_g": 17.773934526097808,
+      "mean_density_g_cm3": 0.9162555495669396,
+      "kcal_per_100g_external": null
+    },
+    "bread": {
+      "n": 7,
+      "mean_volume_cm3": 152.85714285714286,
+      "std_volume_cm3": 13.801311186847084,
+      "mean_weight_g": 28.12857142857143,
+      "std_weight_g": 2.390756007148008,
+      "mean_density_g_cm3": 0.18590096038415366,
+      "kcal_per_100g_external": null
+    },
+    "bun": {
+      "n": 8,
+      "mean_volume_cm3": 238.75,
+      "std_volume_cm3": 29.48970764763288,
+      "mean_weight_g": 81.55,
+      "std_weight_g": 9.309442211309673,
+      "mean_density_g_cm3": 0.3435070550423811,
+      "kcal_per_100g_external": null
+    },
+    "doughnut": {
+      "n": 9,
+      "mean_volume_cm3": 192.22222222222223,
+      "std_volume_cm3": 23.86303510546059,
+      "mean_weight_g": 59.166666666666664,
+      "std_weight_g": 7.372075691418258,
+      "mean_density_g_cm3": 0.3098955195227125,
+      "kcal_per_100g_external": null
+    },
+    "egg": {
+      "n": 7,
+      "mean_volume_cm3": 51.42857142857143,
+      "std_volume_cm3": 3.779644730092272,
+      "mean_weight_g": 59.728571428571435,
+      "std_weight_g": 4.687470634828657,
+      "mean_density_g_cm3": 1.1617619047619048,
+      "kcal_per_100g_external": null
+    },
+    "fired_dough_twist": {
+      "n": 7,
+      "mean_volume_cm3": 67.14285714285714,
+      "std_volume_cm3": 13.801311186847084,
+      "mean_weight_g": 41.24285714285714,
+      "std_weight_g": 3.1753514991032326,
+      "mean_density_g_cm3": 0.630296485260771,
+      "kcal_per_100g_external": null
+    },
+    "grape": {
+      "n": 2,
+      "mean_volume_cm3": 345.0,
+      "std_volume_cm3": 148.49242404917499,
+      "mean_weight_g": 333.75,
+      "std_weight_g": 161.5738995011261,
+      "mean_density_g_cm3": 0.9550694444444444,
+      "kcal_per_100g_external": null
+    },
+    "lemon": {
+      "n": 8,
+      "mean_volume_cm3": 97.5,
+      "std_volume_cm3": 4.6291004988627575,
+      "mean_weight_g": 93.525,
+      "std_weight_g": 2.902585054740001,
+      "mean_density_g_cm3": 0.9608888888888889,
+      "kcal_per_100g_external": null
+    },
+    "litchi": {
+      "n": 5,
+      "mean_volume_cm3": 42.0,
+      "std_volume_cm3": 4.47213595499958,
+      "mean_weight_g": 41.92,
+      "std_weight_g": 5.436634988667163,
+      "mean_density_g_cm3": 0.9964999999999999,
+      "kcal_per_100g_external": null
+    },
+    "mango": {
+      "n": 14,
+      "mean_volume_cm3": 116.78571428571429,
+      "std_volume_cm3": 54.89875796749528,
+      "mean_weight_g": 124.99285714285715,
+      "std_weight_g": 54.79543024581681,
+      "mean_density_g_cm3": 1.0963640428640429,
+      "kcal_per_100g_external": null
+    },
+    "mooncake": {
+      "n": 6,
+      "mean_volume_cm3": 60.0,
+      "std_volume_cm3": 45.16635916254486,
+      "mean_weight_g": 57.31666666666666,
+      "std_weight_g": 33.745483648433115,
+      "mean_density_g_cm3": 1.0430555555555554,
+      "kcal_per_100g_external": null
+    },
+    "orange": {
+      "n": 19,
+      "mean_volume_cm3": 222.10526315789474,
+      "std_volume_cm3": 47.56036484399134,
+      "mean_weight_g": 200.68947368421053,
+      "std_weight_g": 27.91922664355639,
+      "mean_density_g_cm3": 0.9303858868124797,
+      "kcal_per_100g_external": null
+    },
+    "peach": {
+      "n": 5,
+      "mean_volume_cm3": 112.0,
+      "std_volume_cm3": 22.80350850198276,
+      "mean_weight_g": 114.47999999999999,
+      "std_weight_g": 25.01013794444165,
+      "mean_density_g_cm3": 1.021620202020202,
+      "kcal_per_100g_external": null
+    },
+    "pear": {
+      "n": 8,
+      "mean_volume_cm3": 240.0,
+      "std_volume_cm3": 32.071349029490925,
+      "mean_weight_g": 229.25,
+      "std_weight_g": 30.78380835996185,
+      "mean_density_g_cm3": 0.9559104805426957,
+      "kcal_per_100g_external": null
+    },
+    "plum": {
+      "n": 4,
+      "mean_volume_cm3": 112.5,
+      "std_volume_cm3": 25.0,
+      "mean_weight_g": 113.17500000000001,
+      "std_weight_g": 26.67025496691024,
+      "mean_density_g_cm3": 1.00525,
+      "kcal_per_100g_external": null
+    },
+    "qiwi": {
+      "n": 11,
+      "mean_volume_cm3": 151.8181818181818,
+      "std_volume_cm3": 41.66969685951215,
+      "mean_weight_g": 146.92727272727274,
+      "std_weight_g": 37.860139749057744,
+      "mean_density_g_cm3": 0.978527957594521,
+      "kcal_per_100g_external": null
+    },
+    "sachima": {
+      "n": 5,
+      "mean_volume_cm3": 152.0,
+      "std_volume_cm3": 10.954451150103322,
+      "mean_weight_g": 33.12,
+      "std_weight_g": 3.0556505035753028,
+      "mean_density_g_cm3": 0.2176638655462185,
+      "kcal_per_100g_external": null
+    },
+    "tomato": {
+      "n": 7,
+      "mean_volume_cm3": 181.42857142857142,
+      "std_volume_cm3": 17.728105208558365,
+      "mean_weight_g": 177.5,
+      "std_weight_g": 21.00325371619042,
+      "mean_density_g_cm3": 0.983313939610932,
+      "kcal_per_100g_external": null
+    }
+  }
+}

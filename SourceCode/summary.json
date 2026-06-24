@@ -1,0 +1,21 @@
+{
+  "n_ok": 1728,
+  "n_missing_depth": 0,
+  "n_missing_coin": 0,
+  "n_no_food": 5,
+  "midas": {
+    "mae_kcal": 176.1,
+    "rmse_kcal": 381.74,
+    "mape_kcal": 1.3213,
+    "accuracy_at_20pct": 0.0995,
+    "n_images": 1728
+  },
+  "fixed_ratio": {
+    "mae_kcal": 63.93,
+    "rmse_kcal": 110.85,
+    "mape_kcal": 0.5226,
+    "accuracy_at_20pct": 0.2975,
+    "n_images": 1728
+  },
+  "improvement": -152.83
+}

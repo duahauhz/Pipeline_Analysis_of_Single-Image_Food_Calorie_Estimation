@@ -1,0 +1,227 @@
+{
+  "name": "YOLOv13n",
+  "weights_mb": 5.166152000427246,
+  "params_m": 2.451795,
+  "per_class": {
+    "apple": {
+      "n_gt": 9,
+      "n_pred": 9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "banana": {
+      "n_gt": 15,
+      "n_pred": 15,
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "bread": {
+      "n_gt": 1,
+      "n_pred": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "bun": {
+      "n_gt": 1,
+      "n_pred": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "doughnut": {
+      "n_gt": 8,
+      "n_pred": 8,
+      "tp": 8,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "egg": {
+      "n_gt": 2,
+      "n_pred": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "fired_dough_twist": {
+      "n_gt": 8,
+      "n_pred": 8,
+      "tp": 8,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "grape": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "lemon": {
+      "n_gt": 2,
+      "n_pred": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "litchi": {
+      "n_gt": 6,
+      "n_pred": 6,
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "mango": {
+      "n_gt": 9,
+      "n_pred": 9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "mooncake": {
+      "n_gt": 5,
+      "n_pred": 5,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "orange": {
+      "n_gt": 9,
+      "n_pred": 9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "peach": {
+      "n_gt": 2,
+      "n_pred": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pear": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "plum": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "qiwi": {
+      "n_gt": 5,
+      "n_pred": 5,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "sachima": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "tomato": {
+      "n_gt": 10,
+      "n_pred": 10,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "coin": {
+      "n_gt": 100,
+      "n_pred": 100,
+      "tp": 100,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "confidence": {
+    "n": 204,
+    "mean": 0.9619329598020104,
+    "median": 0.9627295434474945,
+    "frac_low": 0.0,
+    "frac_high": 1.0
+  },
+  "size": {
+    "small_frac": 0.0,
+    "med_frac": 0.4852941176470588,
+    "large_frac": 0.5147058823529411
+  },
+  "speed": {
+    "mean_ms": 35.92432500445284,
+    "std_ms": 3.3667258573934173,
+    "p50_ms": 35.72245000395924,
+    "p95_ms": 42.57849999703467,
+    "img_per_s": 27.836291979767175,
+    "n_samples": 60
+  }
+}

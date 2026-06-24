@@ -1,0 +1,227 @@
+{
+  "name": "YOLOv8n",
+  "weights_mb": 5.973672866821289,
+  "params_m": 3.009548,
+  "per_class": {
+    "apple": {
+      "n_gt": 9,
+      "n_pred": 9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "banana": {
+      "n_gt": 15,
+      "n_pred": 15,
+      "tp": 15,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "bread": {
+      "n_gt": 1,
+      "n_pred": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "bun": {
+      "n_gt": 1,
+      "n_pred": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "doughnut": {
+      "n_gt": 8,
+      "n_pred": 8,
+      "tp": 8,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "egg": {
+      "n_gt": 2,
+      "n_pred": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "fired_dough_twist": {
+      "n_gt": 8,
+      "n_pred": 8,
+      "tp": 8,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "grape": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "lemon": {
+      "n_gt": 2,
+      "n_pred": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "litchi": {
+      "n_gt": 6,
+      "n_pred": 6,
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "mango": {
+      "n_gt": 9,
+      "n_pred": 10,
+      "tp": 9,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.9,
+      "recall": 1.0,
+      "f1": 0.9473684210526316
+    },
+    "mooncake": {
+      "n_gt": 5,
+      "n_pred": 5,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "orange": {
+      "n_gt": 9,
+      "n_pred": 9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "peach": {
+      "n_gt": 2,
+      "n_pred": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "pear": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "plum": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "qiwi": {
+      "n_gt": 5,
+      "n_pred": 5,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "sachima": {
+      "n_gt": 3,
+      "n_pred": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "tomato": {
+      "n_gt": 10,
+      "n_pred": 10,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "coin": {
+      "n_gt": 100,
+      "n_pred": 101,
+      "tp": 100,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.9900990099009901,
+      "recall": 1.0,
+      "f1": 0.9950248756218906
+    }
+  },
+  "confidence": {
+    "n": 206,
+    "mean": 0.955342714358302,
+    "median": 0.95746910572052,
+    "frac_low": 0.0,
+    "frac_high": 0.9902912621359223
+  },
+  "size": {
+    "small_frac": 0.0,
+    "med_frac": 0.4854368932038835,
+    "large_frac": 0.5145631067961165
+  },
+  "speed": {
+    "mean_ms": 16.946806666480068,
+    "std_ms": 2.2254434826675347,
+    "p50_ms": 16.274150024401024,
+    "p95_ms": 21.37779997428879,
+    "img_per_s": 59.00816712436743,
+    "n_samples": 60
+  }
+}

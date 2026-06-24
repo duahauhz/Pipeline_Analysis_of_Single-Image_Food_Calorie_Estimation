@@ -1,0 +1,30 @@
+# ECUSTFD Food Dataset for Knowledge Distillation training
+# Uses merged labels (GT + YOLOv13n pseudo) for training
+path: ../datasets/ECUSTFD
+train: images/train
+val: images/val
+test: images/test  # Optional
+
+nc: 20  # 19 food classes + 1 coin
+
+names:
+  0: apple
+  1: banana
+  2: bread
+  3: bun
+  4: doughnut
+  5: egg
+  6: fired_dough_twist
+  7: grape
+  8: lemon
+  9: litchi
+  10: mango
+  11: mooncake
+  12: orange
+  13: peach
+  14: pear
+  15: plum
+  16: qiwi
+  17: sachima
+  18: tomato
+  19: coin

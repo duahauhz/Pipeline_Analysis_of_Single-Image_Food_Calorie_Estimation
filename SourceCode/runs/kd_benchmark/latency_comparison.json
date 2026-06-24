@@ -1,0 +1,61 @@
+{
+  "note": "KD latency benchmark - estimated from Phase G batch speedup results. YOLOv8n baseline ~16.9ms, YOLOv13n ~34.5ms. KD student inherits YOLOv8n architecture so latency ≈ YOLOv8n baseline.",
+  "estimated_latency": {
+    "YOLOv13n-teacher (batch=1)": {
+      "mean_ms": 34.54,
+      "fps": 29.0,
+      "source": "Phase G batch benchmark"
+    },
+    "YOLOv13n-teacher (batch=8)": {
+      "mean_ms": 15.53,
+      "fps": 64.4,
+      "source": "Phase G batch benchmark"
+    },
+    "YOLOv8n-baseline (batch=1)": {
+      "mean_ms": 16.9,
+      "fps": 59.2,
+      "source": "Phase F detailed comparison"
+    },
+    "YOLOv8n-baseline (batch=8)": {
+      "mean_ms": 10.54,
+      "fps": 94.9,
+      "source": "Phase G batch benchmark"
+    },
+    "YOLOv8n+KD-student (batch=1)": {
+      "mean_ms": 16.9,
+      "estimated": true,
+      "reason": "Same architecture as YOLOv8n baseline (3.01M params, 23 layers)"
+    },
+    "YOLOv8n+KD-student (batch=8)": {
+      "mean_ms": 10.54,
+      "estimated": true,
+      "reason": "Same architecture as YOLOv8n baseline"
+    }
+  },
+  "kd_summary": {
+    "teacher_yolov13n": {
+      "val_mAP50": 0.9923,
+      "val_mAP50_95": 0.9137,
+      "params_M": 2.46,
+      "file_size_MB": 5.17,
+      "epochs": 100
+    },
+    "student_yolov8n_kd": {
+      "val_mAP50": 0.9921,
+      "val_mAP50_95": 0.9109,
+      "params_M": 3.01,
+      "file_size_MB": 5.97,
+      "epochs": 50,
+      "delta_vs_baseline_mAP50": "+0.0013",
+      "delta_vs_baseline_mAP50_95": "+0.0027"
+    },
+    "baseline_yolov8n": {
+      "val_mAP50": 0.9908,
+      "val_mAP50_95": 0.9082,
+      "params_M": 3.01,
+      "file_size_MB": 5.97,
+      "epochs": 50
+    }
+  },
+  "limitation": "Test set evaluation blocked by torch CUDA context deadlock. Val mAP used for analysis. Test set + latency measurement requires restarting machine or CPU-only torch."
+}
